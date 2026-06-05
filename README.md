@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @myatthuwynn
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysts in health industry.
-- 📫 How to reach me fun game play
+-# Saw Myat 👋
 
-<!---
-myatthuwynn/myatthuwynn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Consultant Orthopaedic & Spine Surgeon · Building AI clinical tools · Maldives
+
+---
+
+### 🔨 Building
+
+**[orthoai.io](https://orthoai.io)** — AI-powered tools for orthopaedic surgeons  
+Bilingual physio PDFs · Clinical DDx · Op note automation · Patient funnels
+
+### 🛠 Stack
+
+`Python` `Claude API` `JavaScript` `Apps Script` `Jupyter` `Git`
+
+### 🌱 Learning
+
+Prompt engineering · Full-stack AI development
+
+---
+
+> *Automate the repetitive. Focus on what matters.*
+
+[![Email](https://img.shields.io/badge/Email-saw.myat@hmh.gov.mv-blue?style=flat&logo=gmail)](mailto:saw.myat@hmh.gov.mv)
+[![GitHub](https://img.shields.io/badge/GitHub-myatthuwynn-black?style=flat&logo=github)](https://github.com/myatthuwynn)
+[![Web](https://img.shields.io/badge/Web-orthoai.io-green?style=flat&logo=google-chrome)](https://orthoai.io)
